@@ -1,6 +1,6 @@
 # DeNTAS-De-Novo-Transcriptome-Analysis-Statistics
 
-This file contains a basic description of DeNTAS', details of the web design and developent. 
+This page contains a basic description of DeNTAS', details of the web design and developent. 
 
 # Web design and development 
 
