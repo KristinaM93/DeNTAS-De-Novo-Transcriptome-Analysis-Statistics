@@ -1,4 +1,4 @@
-# Website Overview for DeNTAS Project
+# Website Overview for DeNTAS :De Novo Transcriptome Analysis & Statistics
 Welcome to the DeNTAS project website! This site is designed to provide a user-friendly interface for navigating through various pages related to the software's functionality and resources. It contains essential information about the project, allows users to upload data for analysis, and presents results from bioinformatics processing.
 
 # Website Structure
