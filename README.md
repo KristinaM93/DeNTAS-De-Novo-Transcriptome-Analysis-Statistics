@@ -21,9 +21,6 @@ Data Submission: Once the form is filled, the information is sent to Flask, whic
 R Graphics Output: This page displays the output of R-based analyses, including visualizations like graphs generated from the data.
 BLAST Results: A table is shown with the significantly expressed genes identified by the BLAST analysis, giving users detailed insights into their experimental data.
 
-# External Links
-- DeNTAS GitHub Repository: The website also contains hyperlinks to the DeNTAS GitHub repository, where users can access the source code and other files related to the software development. This is useful for those interested in understanding the technical details of the project or contributing to its development.
-
 # How to Use the Website
 1. Start at the 'Index.html': Click on the ‘GET STARTED’ button to begin.
 2. Provide Project Details: Use the 'About.html' to familiarize yourself with the project’s mission.
